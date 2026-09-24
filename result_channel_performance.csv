@@ -1,0 +1,7 @@
+channel,sessions,users,engaged_sessions,engagement_rate_pct,sessions_with_key_event,session_key_event_rate_pct,purchase_sessions,purchase_session_rate_pct,lead_sessions,purchase_revenue_gbp,avg_engagement_seconds
+Organic Search,2601,1618,2399,92.23,134,5.15,94,3.61,45,15558.23,66.4
+Paid Search,1756,1273,1628,92.71,93,5.3,68,3.87,26,11272.95,66.0
+Direct,1288,1029,1188,92.24,77,5.98,52,4.04,26,7754.27,66.3
+Email,850,722,781,91.88,39,4.59,30,3.53,9,4619.53,66.2
+Referral,707,595,658,93.07,42,5.94,25,3.54,17,4076.2,67.4
+Organic Social,448,411,406,90.62,27,6.03,15,3.35,12,2468.98,64.2

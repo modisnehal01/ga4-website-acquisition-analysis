@@ -1,0 +1,4 @@
+device,sessions,users,engaged_sessions,engagement_rate_pct,sessions_with_key_event,session_key_event_rate_pct,purchase_sessions,purchase_session_rate_pct,lead_sessions,purchase_revenue_gbp,avg_engagement_seconds
+mobile,4502,2071,4158,92.36,232,5.15,159,3.53,79,24930.21,66.6
+desktop,2857,1690,2633,92.16,161,5.64,108,3.78,53,18087.89,66.1
+tablet,291,268,269,92.44,19,6.53,17,5.84,3,2732.06,61.4

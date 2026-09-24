@@ -1,0 +1,8 @@
+check,issues
+duplicate_session_ids,0
+events_without_session,0
+negative_purchase_revenue,0
+purchase_session_event_mismatches,0
+lead_session_event_mismatches,0
+purchase_value_mismatches,0
+engagement_rule_mismatches,0

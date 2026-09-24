@@ -1,0 +1,4 @@
+period,sessions,users,engaged_sessions,engagement_rate_pct,sessions_with_key_event,session_key_event_rate_pct,purchase_sessions,purchase_session_rate_pct,lead_sessions,purchase_revenue_gbp,avg_engagement_seconds
+2024 Jan-Aug,1600,1184,1471,91.94,97,6.06,68,4.25,29,11106.71,67.8
+2025 Jan-Aug,1936,1371,1789,92.41,103,5.32,70,3.62,33,11691.32,64.8
+2026 Jan-Aug,2350,1514,2181,92.81,121,5.15,84,3.57,39,13285.8,66.8
