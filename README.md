@@ -4,7 +4,7 @@
 
 ## Project overview
 
-A digital analytics case study examining synthetic UK e-commerce website sessions and GA4-style events across **2024, 2025 and January–August 2026**. The analysis connects traffic acquisition, engagement, landing-page behaviour, purchase journeys and revenue to business questions.
+A digital analytics case study examining UK e-commerce website sessions and GA4-style events across **2024, 2025 and January–August 2026**. The analysis connects traffic acquisition, engagement, landing-page behaviour, purchase journeys and revenue to business questions.
 
 **Data:** A simulated GA4-style session and event dataset, not an export from a live Google Analytics property.
 
